@@ -1,15 +1,16 @@
+# Age Detection Project 👵🧑👦
 
-# Age Detection Project
+Esse projeto usa visão computacional pra sacar a faixa etária da galera só olhando o rosto. O modelo foi treinado no Roboflow e manda bem classificando faces em 5 grupos de idade:
 
-Este projeto utiliza técnicas de visão computacional para classificar a idade de rostos com base em sua aparência. O modelo foi treinado utilizando o Roboflow e é capaz de identificar rostos em cinco faixas etárias distintas:
+- 18-20 anos  
+- 21-30 anos  
+- 31-40 anos  
+- 41-50 anos  
+- 51-60 anos  
 
-- 18-20
-- 21-30
-- 31-40
-- 41-50
-- 51-60
-## 🔗 Links
-- Roboflow: [Age-Detecion](https://universe.roboflow.com/melissa-y6dfd/age-detection-4ttq9/model/2)
+## 🔗 Links úteis
 
-- Datasets utilizados: [Face Recognition Dataset](https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years) | [facial age](https://www.kaggle.com/datasets/frabbisw/facial-age)
-
+- Modelo no Roboflow: [Age Detection](https://universe.roboflow.com/melissa-y6dfd/age-detection-4ttq9/model/2)  
+- Datasets usados:  
+  - [Face Recognition Dataset](https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years)  
+  - [Facial Age Dataset](https://www.kaggle.com/datasets/frabbisw/facial-age)
